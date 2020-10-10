@@ -24,7 +24,7 @@ int main()
 
 		break;
 	case '/':
-
+		cout<<"phep chia";
 		break;
 	default:
 		cout << "Chon sai phep toan";
