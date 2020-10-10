@@ -15,10 +15,10 @@ int main()
 	switch (phepToan)
 	{
 	case '+':
-		
+		a+b;
 		break;
 	case '-':
-
+		
 		break;
 	case '*':
 
