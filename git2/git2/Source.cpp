@@ -3,7 +3,7 @@ using namespace std;
 
 void dtv(int a)
 {
-	int dt 
+	int dt;
 	cout << "nhap canh hinh vuong";
 	cin >> a;
 	
